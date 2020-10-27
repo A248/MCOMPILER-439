@@ -1,0 +1,81 @@
+[INFO] Scanning for projects...
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Build Order:
+[INFO] 
+[INFO] maven-compiler-439                                                 [pom]
+[INFO] maven-compiler-439-without-moduleinfo                              [jar]
+[INFO] maven-compiler-439-with-moduleinfo                                 [jar]
+[INFO] 
+[INFO] ---------------------< me.a248:maven-compiler-439 >---------------------
+[INFO] Building maven-compiler-439 0.1.0-SNAPSHOT                         [1/3]
+[INFO] --------------------------------[ pom ]---------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ maven-compiler-439 ---
+[INFO] 
+[INFO] -----------< me.a248:maven-compiler-439-without-moduleinfo >------------
+[INFO] Building maven-compiler-439-without-moduleinfo 0.1.0-SNAPSHOT      [2/3]
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ maven-compiler-439-without-moduleinfo ---
+[INFO] Deleting /Users/anandbeh/git/MCOMPILER-439/without-moduleinfo/target
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ maven-compiler-439-without-moduleinfo ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /Users/anandbeh/git/MCOMPILER-439/without-moduleinfo/src/main/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.8.1:compile (default-compile) @ maven-compiler-439-without-moduleinfo ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 1 source file to /Users/anandbeh/git/MCOMPILER-439/without-moduleinfo/target/classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ maven-compiler-439-without-moduleinfo ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /Users/anandbeh/git/MCOMPILER-439/without-moduleinfo/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.8.1:testCompile (default-testCompile) @ maven-compiler-439-without-moduleinfo ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ maven-compiler-439-without-moduleinfo ---
+[INFO] No tests to run.
+[INFO] 
+[INFO] --- maven-jar-plugin:3.2.0:jar (default-jar) @ maven-compiler-439-without-moduleinfo ---
+[INFO] Building jar: /Users/anandbeh/git/MCOMPILER-439/without-moduleinfo/target/without-moduleinfo.jar
+[INFO] 
+[INFO] -------------< me.a248:maven-compiler-439-with-moduleinfo >-------------
+[INFO] Building maven-compiler-439-with-moduleinfo 0.1.0-SNAPSHOT         [3/3]
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ maven-compiler-439-with-moduleinfo ---
+[INFO] Deleting /Users/anandbeh/git/MCOMPILER-439/with-moduleinfo/target
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ maven-compiler-439-with-moduleinfo ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /Users/anandbeh/git/MCOMPILER-439/with-moduleinfo/src/main/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.8.1:compile (default-compile) @ maven-compiler-439-with-moduleinfo ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 2 source files to /Users/anandbeh/git/MCOMPILER-439/with-moduleinfo/target/classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ maven-compiler-439-with-moduleinfo ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /Users/anandbeh/git/MCOMPILER-439/with-moduleinfo/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.8.1:testCompile (default-testCompile) @ maven-compiler-439-with-moduleinfo ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ maven-compiler-439-with-moduleinfo ---
+[INFO] No tests to run.
+[INFO] 
+[INFO] --- maven-jar-plugin:3.2.0:jar (default-jar) @ maven-compiler-439-with-moduleinfo ---
+[INFO] Building jar: /Users/anandbeh/git/MCOMPILER-439/with-moduleinfo/target/with-moduleinfo.jar
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Summary for maven-compiler-439 0.1.0-SNAPSHOT:
+[INFO] 
+[INFO] maven-compiler-439 ................................. SUCCESS [  0.205 s]
+[INFO] maven-compiler-439-without-moduleinfo .............. SUCCESS [  2.052 s]
+[INFO] maven-compiler-439-with-moduleinfo ................. SUCCESS [  0.280 s]
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  2.787 s
+[INFO] Finished at: 2020-10-27T14:40:00-04:00
+[INFO] ------------------------------------------------------------------------
