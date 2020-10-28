@@ -1,5 +1,7 @@
-# MCOMPILER-439
-Source code to reproduce MCOMPILER-439
+# MJAR-275
+Source code to reproduce
+
+A248/MCOMPILER-439 also redirects here because I was mistaken in originally thinking it was a bug in maven-compiler-plugin.
 
 ## How to Use
 
