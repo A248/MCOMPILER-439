@@ -5,11 +5,11 @@
 	
 	<parent>
 		<groupId>me.a248</groupId>
-		<artifactId>maven-compiler-439</artifactId>
+		<artifactId>mjar-275</artifactId>
 		<version>0.1.0-SNAPSHOT</version>
 	</parent>
 
-	<artifactId>maven-compiler-439-with-moduleinfo</artifactId>
+	<artifactId>mjar-275-with-moduleinfo</artifactId>
 	
 	<build>
 		<finalName>with-moduleinfo</finalName>

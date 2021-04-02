@@ -7,6 +7,11 @@ target/
 dependency-reduced-pom.xml
 pom.xml.versionsBackup
 
+### Intellij ###
+
+.idea
+*.iml
+
 ### Eclipse ###
 
 .classpath

@@ -1,6 +1,6 @@
-package me.a248.mcompiler439;
+package me.a248.mjar275;
 
-public class Main439 {
+public class MainMjar275 {
 
 	public static void main(String[] args) {
 		System.out.println("...");

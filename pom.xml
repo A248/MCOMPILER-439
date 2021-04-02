@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>me.a248</groupId>
-	<artifactId>maven-compiler-439</artifactId>
+	<artifactId>mjar-275</artifactId>
 	<version>0.1.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	
-	<description>Reproducer for MCOMPILER-439</description>
+	<description>Reproducer for MJAR-275</description>
 	
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

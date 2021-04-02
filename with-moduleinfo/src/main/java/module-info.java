@@ -1,3 +1,3 @@
-module me.a248.mcompiler439 {
-	exports me.a248.mcompiler439;
+module me.a248.mjar275 {
+	exports me.a248.mjar275;
 }
